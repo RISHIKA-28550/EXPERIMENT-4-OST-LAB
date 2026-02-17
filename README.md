@@ -1,3 +1,3 @@
 # EXPERIMENT-4-OST-LAB
 
-This file is modified in branch1.
+This file was modified in both branches and conflict resolved successfully.
